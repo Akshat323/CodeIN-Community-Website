@@ -34,7 +34,7 @@
     font-size: 12px;
     margin-left: -50px;
     opacity: 0;
-    background-color: gray;
+    background-color: white;
     z-index: 1000;
 }
 #contributor a img:hover {
